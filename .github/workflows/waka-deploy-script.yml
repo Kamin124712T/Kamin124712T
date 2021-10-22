@@ -8,7 +8,7 @@ on:
 
 jobs:
   update-readme:
-    name: MY time! 🌈
+    name: My time
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
