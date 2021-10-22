@@ -30,7 +30,8 @@
 <a href = 'https://www.facebook.com/kamin124712/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
 <a href = 'https://www.instagram.com/k_amin124712/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 
-<h2> Connect with me</h2>
+<h2> Quotation </h2>
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
