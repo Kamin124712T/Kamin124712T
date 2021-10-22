@@ -27,7 +27,8 @@
 
 <h2> Connect with me</h2>
 <a href = 'https://www.github.com/Kamin124712T'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
-<a href = 'https://www.facebook.com/kamin124712/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a> 
+<a href = 'https://www.facebook.com/kamin124712/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
+<a href = 'https://www.instagram.com/k_amin124712/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 
 
 
