@@ -30,13 +30,3 @@
 <a href = 'https://www.facebook.com/kamin124712/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/facebook.svg"/></a>
 <a href = 'https://www.instagram.com/k_amin124712/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
 
-<h2> Quotation </h2>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamin124712T)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
