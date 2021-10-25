@@ -7,7 +7,7 @@
 
 <h2> About Me </h2>
 
-- I’m currently learning School of Information Technology, King Mongkut's University of Technology Thonburi 
+- I’m currently studying at School of Information Technology, King Mongkut's University of Technology Thonburi 
 
 
 <h2> Skills </h2>
